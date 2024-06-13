@@ -49,6 +49,6 @@ public class LoginPage {
         return loginResult.getText();
 //                // Increased timeout to 20 seconds
 //        return wait.until(ExpectedConditions.urlContains("myaccount"));
-
+//system.out.println("hi");
    }
 }
